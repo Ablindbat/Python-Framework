@@ -1,5 +1,5 @@
 ### Automation of automationpractice.com site
-<br> site [link](http://automationpractice.com/index.php)
+<br> Website ** [Link](http://automationpractice.com/index.php) **
 <br>
 + For Single file run in terminal command is:</br>
  ``pytest -s -v "filename with extention"``
