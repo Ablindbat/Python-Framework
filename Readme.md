@@ -1,4 +1,6 @@
 ### Automation of automationpractice.com site
+<br> site [link](http://automationpractice.com/index.php)
+<br>
 + For Single file run in terminal command is:</br>
  ``pytest -s -v "filename with extention"``
 + For while tests are run in terminal command ia: </br>
